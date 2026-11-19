@@ -9,6 +9,7 @@ Applied AI architect. I take Claude-powered products from discovery to productio
 ## Open source
 
 - **[sample-saas-multi-agents-workshop](https://github.com/aws-samples/sample-saas-multi-agents-workshop)**: multi-tenant GenAI agents workshop for re:Invent 2025 (co-author). Tenant isolation, AgentCore, marketplace onboarding.
+- **[aws-saas-genai-rag-workshop](https://github.com/aws-samples/aws-saas-genai-rag-workshop)**: multi-tenant GenAI RAG workshop. Built the hands-on environment (VS Code server, CloudFormation, SSM bootstrap) and fixed OpenSearch and SaaS Builder Toolkit auth issues.
 - **[Roo Code](https://github.com/RooCodeInc/Roo-Code)** (Bedrock provider): fixed Bedrock system-prompt caching ([#3099](https://github.com/RooCodeInc/Roo-Code/pull/3099)); filed issues that brought Claude Sonnet 4, Opus 4 and global inference to Bedrock users; tested and reviewed Bedrock service tiers, Nova 2 Lite and 1M-context PRs before merge.
 
 ## Writing
